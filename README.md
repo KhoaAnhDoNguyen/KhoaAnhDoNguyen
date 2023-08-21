@@ -1,4 +1,4 @@
-Hello, My name is Khoa, I'm studying at UIT.
+Hello, My name is Khoa, I'm a student at UIT.
 Now, I'm studying both IT and Japanese.
 In the future I aspire to be an AI engineer as well as a Web developer.
 ## 🌐Socials
