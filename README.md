@@ -1,4 +1,6 @@
-Hello
+Hello, My name is Khoa, I'm studying at UIT.
+Now, I'm studying both IT and Japanese.
+In the future I aspire to be an AI engineer as well as a Web developer.
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100014098020695) 
 
